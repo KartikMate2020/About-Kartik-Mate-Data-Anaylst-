@@ -8,7 +8,7 @@ Data Cleaning & Analysis
 SQL, Excel, Python
 
 Power BI
-
+<br>
 <BR>
 ETL(Extract Transform Load)
 <BR>
