@@ -7,7 +7,11 @@ Data Cleaning & Analysis
 
 SQL, Excel, Python
 
-Power BI / Tableau
+Power BI
+<BR>
+ETL(Extract Transform Load)
+<BR>
+EDA(Exploratery Data Anaylsis)
 
 Dashboard & Report Creation
 
